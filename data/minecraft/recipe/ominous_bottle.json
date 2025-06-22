@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#En",
+        "EPE",
+        "nE#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "P": {
+            "item": "minecraft:potion"
+        }
+    },
+    "result": {
+        "id": "minecraft:ominous_bottle",
+        "count": 1
+    }
+}

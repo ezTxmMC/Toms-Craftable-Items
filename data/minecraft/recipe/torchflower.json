@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:fern"
+        },
+        {
+            "item": "minecraft:torch"
+        }
+    ],
+    "result": {
+        "id": "minecraft:torchflower",
+        "count": 1
+    }
+}

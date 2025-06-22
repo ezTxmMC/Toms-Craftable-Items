@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:tripwire_hook"
+        }
+    ],
+    "result": {
+        "id": "minecraft:suspicious_sand",
+        "count": 1
+    }
+}
