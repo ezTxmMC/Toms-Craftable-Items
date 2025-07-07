@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W#W",
+        "#D#",
+        "W#W"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "W": {
+            "item": "minecraft:white_stained_glass"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "id": "minecraft:nether_star",
+        "count": 1
+    }
+}

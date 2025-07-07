@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R#",
+        "#R"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_mushroom"
+        },
+        "R": {
+            "item": "minecraft:red_mushroom"
+        }
+    },
+    "result": {
+        "id": "minecraft:mushroom_stem",
+        "count": 1
+    }
+}
