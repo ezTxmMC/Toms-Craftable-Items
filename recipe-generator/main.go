@@ -95,8 +95,13 @@ func main() {
 					}
 					itemCounts[id] = cnt
 				}
+<<<<<<< HEAD
 				file.CreateShapeless(result, count, itemCounts)
 				fmt.Println("Create recipe for " + result)
+=======
+				fmt.Println(itemCounts)
+				file.CreateShapeless(result, count, itemCounts)
+>>>>>>> 234b36c (added recipe-generator)
 			default:
 				fmt.Printf("Unknown crafting type: %s\n", craftingType)
 				os.Exit(1)
@@ -109,7 +114,10 @@ func main() {
 			}
 			filename := os.Args[2]
 			file.DeleteRecipe(filename)
+<<<<<<< HEAD
 			fmt.Println("Deleted recipe for " + filename)
+=======
+>>>>>>> 234b36c (added recipe-generator)
 		default:
 			fmt.Printf("Unknown flag: %s\n", os.Args[1])
 			os.Exit(1)
