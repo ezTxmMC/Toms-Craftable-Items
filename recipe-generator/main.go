@@ -1,3 +1,4 @@
+				fmt.Printf("Usage: --delete <filename>\n")
 package main
 
 import (
