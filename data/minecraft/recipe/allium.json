@@ -1,15 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:fern"
-        },
-        {
-            "item": "minecraft:magenta_dye"
-        }
-    ],
-    "result": {
-        "id": "minecraft:allium",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:fern",
+    "minecraft:magenta_dye"
+  ],
+  "result": {
+    "id": "minecraft:allium",
+    "count": 1
+  }
 }

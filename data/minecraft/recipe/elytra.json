@@ -1,23 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "FSF",
-        "P P",
-        "P P"
-    ],
-    "key": {
-        "F": {
-            "item": "minecraft:feather"
-        },
-        "S": {
-            "item": "minecraft:string"
-        },
-        "P": {
-            "item": "minecraft:phantom_membrane"
-        }
-    },
-    "result": {
-        "count": 1,
-        "id": "minecraft:elytra"
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FSF",
+    "P P",
+    "P P"
+  ],
+  "key": {
+    "F": "minecraft:feather",
+    "S": "minecraft:string",
+    "P": "minecraft:phantom_membrane"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
 }

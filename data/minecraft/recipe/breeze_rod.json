@@ -1,20 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "###",
-        "#S#",
-        "###"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:wind_charge"
-        },
-        "S": {
-            "item": "minecraft:stick"
-        }
-    },
-    "result": {
-        "id": "minecraft:breeze_rod",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:wind_charge",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:breeze_rod",
+    "count": 1
+  }
 }

@@ -1,17 +1,15 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "/ /",
-        "///",
-        " / "
-    ],
-    "key": {
-        "/": {
-            "item": "minecraft:stick"
-        }
-    },
-    "result": {
-        "id": "minecraft:dead_bush",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/ /",
+    "///",
+    " / "
+  ],
+  "key": {
+    "/": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:dead_bush",
+    "count": 1
+  }
 }

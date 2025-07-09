@@ -1,26 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#D#",
-        "GBG",
-        " G "
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:emerald"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "G": {
-            "item": "minecraft:gold_block"
-        },
-        "B": {
-            "item": "minecraft:blaze_powder"
-        }
-    },
-    "result": {
-        "id": "minecraft:totem_of_undying",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "GBG",
+    " G "
+  ],
+  "key": {
+    "#": "minecraft:emerald",
+    "D": "minecraft:diamond",
+    "G": "minecraft:gold_block",
+    "B": "minecraft:blaze_powder"
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  }
 }

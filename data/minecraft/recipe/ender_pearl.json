@@ -1,20 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " # ",
-        "#D#",
-        " # "
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:emerald"
-        },
-        "D": {
-            "item": "minecraft:diamond_block"
-        }
-    },
-    "result": {
-        "id": "minecraft:ender_pearl",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:emerald",
+    "D": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "minecraft:ender_pearl",
+    "count": 1
+  }
 }

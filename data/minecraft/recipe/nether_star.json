@@ -1,23 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "W#W",
-        "#D#",
-        "W#W"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:diamond"
-        },
-        "W": {
-            "item": "minecraft:white_stained_glass"
-        },
-        "D": {
-            "item": "minecraft:diamond_block"
-        }
-    },
-    "result": {
-        "id": "minecraft:nether_star",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W#W",
+    "#D#",
+    "W#W"
+  ],
+  "key": {
+    "#": "minecraft:diamond",
+    "W": "minecraft:white_stained_glass",
+    "D": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
 }
