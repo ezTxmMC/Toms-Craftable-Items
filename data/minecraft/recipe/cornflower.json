@@ -1,15 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:fern"
-        },
-        {
-            "item": "minecraft:blue_dye"
-        }
-    ],
-    "result": {
-        "id": "minecraft:cornflower",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:fern",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:cornflower",
+    "count": 1
+  }
 }

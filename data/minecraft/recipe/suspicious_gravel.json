@@ -1,15 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:tripwire_hook"
-        }
-    ],
-    "result": {
-        "id": "minecraft:suspicious_gravel",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:gravel",
+    "minecraft:tripwire_hook"
+  ],
+  "result": {
+    "id": "minecraft:suspicious_gravel",
+    "count": 1
+  }
 }

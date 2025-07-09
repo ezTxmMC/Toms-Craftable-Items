@@ -1,20 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " # ",
-        "#H#",
-        "###"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:obsidian"
-        },
-        "H": {
-            "item": "minecraft:dragon_head"
-        }
-    },
-    "result": {
-        "id": "minecraft:dragon_egg",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#H#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:obsidian",
+    "H": "minecraft:dragon_head"
+  },
+  "result": {
+    "id": "minecraft:dragon_egg",
+    "count": 1
+  }
 }

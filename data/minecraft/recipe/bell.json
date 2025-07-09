@@ -1,23 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "SSS",
-        "###",
-        "#N#"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:gold_ingot"
-        },
-        "S": {
-            "item": "minecraft:stick"
-        },
-        "N": {
-            "item": "minecraft:gold_nugget"
-        }
-    },
-    "result": {
-        "id": "minecraft:bell",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "###",
+    "#N#"
+  ],
+  "key": {
+    "#": "minecraft:gold_ingot",
+    "S": "minecraft:stick",
+    "N": "minecraft:gold_nugget"
+  },
+  "result": {
+    "id": "minecraft:bell",
+    "count": 1
+  }
 }

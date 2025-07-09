@@ -1,15 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:fern"
-        },
-        {
-            "item": "minecraft:orange_dye"
-        }
-    ],
-    "result": {
-        "id": "minecraft:orange_tulip",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:fern",
+    "minecraft:orange_dye"
+  ],
+  "result": {
+    "id": "minecraft:orange_tulip",
+    "count": 1
+  }
 }
