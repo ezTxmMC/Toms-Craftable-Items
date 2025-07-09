@@ -1,17 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:resin_clump",
-            "count": 1
-        },
-        {
-            "item": "minecraft:pale_oak_sapling",
-            "count": 1
-        }
-    ],
-    "result": {
-        "id": "minecraft:open_eyeblossom",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:resin_clump",
+    "minecraft:pale_oak_sapling"
+  ],
+  "result": {
+    "id": "minecraft:open_eyeblossom",
+    "count": 1
+  }
 }

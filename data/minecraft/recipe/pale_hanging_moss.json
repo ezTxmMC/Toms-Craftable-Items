@@ -1,13 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:pale_moss_carpet",
-            "count": 2
-        }
-    ],
-    "result": {
-        "id": "minecraft:pale_hanging_moss",
-        "count": 1
-    }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:pale_moss_carpet",
+    "minecraft:pale_moss_carpet"
+  ],
+  "result": {
+    "id": "minecraft:pale_hanging_moss",
+    "count": 1
+  }
 }
